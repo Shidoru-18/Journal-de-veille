@@ -4,6 +4,24 @@
 [yahoo](https://www.yahoo.com)
 [mdn](https://www.mdn.com)
 
+## 20/10/2026 — Journal de veille
+
+- **Source** : [ le comité qui fait évoluer la norme ECMAScript, le nom officiel de JavaScript](https://tc39.es/) — site ou auteur (TC39)
+
+
+- **Ce que j'ai appris** : J'ai appris que c'est le groupe TC39 d'ecma et plusieurs autres membres de la communauté Javascript qui maintiennent ce language.
+- Les modifications apportées au langage sont développées selon un processus qui définit des directives pour faire évoluer une idée d'ajout jusqu'à une fonctionnalité entièrement spécifiée, incluant des tests d'acceptation et de multiples implémentations.
+
+
+
+
+- **Pourquoi c'est utile pour un développeur web** : car ça permet de savoir qui s'occupe du language qu'on utilise quotidiennement 
+
+
+- **Ce que je vais faire ou vérifier** : rien
+
+
+
 ## 13/11/2026 — Journal de veille
 
 - **Source** : [Baseline (compatibility)](https://developer.mozilla.org/en-US/docs/Glossary/Baseline/Compatibility) — site ou auteur (Mmdn_)
